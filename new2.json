@@ -1,0 +1,36 @@
+{
+"UserInfo":[
+  {
+    "UserId":"0",
+    "firstname":"Jonathan",
+    "Surname":"Bardwell",
+    "PlayerDesc":"Into VR developemnt and creating games",
+    "MaxGold":"523",
+    "Team":"Red"
+  }, 
+  {
+    "UserId":"1",
+    "firstname":"San",
+    "Surname":"Smith",
+    "PlayerDesc":"Into VR developemnt and creating games",
+    "MaxGold":"53",
+    "Team":"Blue"
+  },
+    {
+    "UserId":"2",
+    "firstname":"Tam",
+    "Surname":"Bardwell",
+    "PlayerDesc":"Into VR developemnt and creating games",
+    "MaxGold":"123",
+    "Team":"Red"
+  },
+    {
+    "UserId":"3",
+    "firstname":"Tem",
+    "Surname":"Bardwell",
+    "PlayerDesc":"Into VR developemnt and creating games",
+    "MaxGold":"523",
+    "Team":"Blue"
+  }
+]
+}
